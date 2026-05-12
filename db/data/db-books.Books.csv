@@ -1,0 +1,6 @@
+ID,title,author,price,publishedDate,digitalCopy
+550e8400-e29b-41d4-a716-446655440000,"Clean Code","Robert C. Martin",499.99,"2023-01-15T10:30:00Z",true
+550e8400-e29b-41d4-a716-446655440001,"The Pragmatic Programmer","Andrew Hunt",699.50,"2022-05-20T14:00:00Z",true
+550e8400-e29b-41d4-a716-446655440002,"Introduction to Algorithms","Thomas H. Cormen",1200.00,"2021-08-10T09:15:00Z",false
+550e8400-e29b-41d4-a716-446655440003,"Design Patterns","Erich Gamma",850.75,"2020-11-05T16:45:00Z",true
+550e8400-e29b-41d4-a716-446655440004,"JavaScript: The Good Parts","Douglas Crockford",399.00,"2024-03-12T08:20:00Z",false

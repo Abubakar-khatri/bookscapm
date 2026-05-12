@@ -1,0 +1,35 @@
+GET http://localhost:4004/odata/v4/library-srv/BooksSet
+
+###
+
+GET http://localhost:4004/odata/v4/library-srv/BooksSet(550e8400-e29b-41d4-a716-446655440000)
+
+###
+
+POST http://localhost:4004/odata/v4/library-srv/BooksSet 
+Content-Type: application/json
+
+{
+    "title": "SAP UI5 Development",
+  "author": "John Doe",
+  "price": 799.99,
+  "publishedDate": "2025-05-07T12:00:00Z",
+  "digitalCopy": true
+}
+
+###
+
+PUT http://localhost:4004/odata/v4/library-srv/BooksSet(2b1449f0-6310-4e79-be36-0080c31efb9f) 
+Content-Type: application/json
+
+{
+    "title": "SAP UI5 Development12",
+  "author": "John Doe12",
+  "price": 899.99,
+  "publishedDate": "2025-05-07T12:00:00Z",
+  "digitalCopy": true
+}
+
+###
+
+DELETE http://localhost:4004/odata/v4/library-srv/BooksSet(de824a91-d7f4-49ac-8f69-d6f7d4713cd3)

@@ -1,0 +1,572 @@
+#2026 05 12 10:37:34.896#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-3709#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:36:55.301267] Added process: "web" (STDOUT, API)#
+#2026 05 12 10:37:34.896#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-3709#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:36:55.309220] Created app with guid fb5586d2-a47a-439e-aeca-266bbcf59f44 (STDOUT, API)#
+#2026 05 12 10:37:34.896#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-3709#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:36:55.407825] Updating process: "web" (STDOUT, API)#
+#2026 05 12 10:37:34.896#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-3709#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:36:55.459575] Scaling process: "web" (STDOUT, API)#
+#2026 05 12 10:37:34.896#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-3709#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:15.077720] Uploading app package for app with guid fb5586d2-a47a-439e-aeca-266bbcf59f44 (STDOUT, API)#
+#2026 05 12 10:37:34.896#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-3709#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:15.302386] Updated app with guid fb5586d2-a47a-439e-aeca-266bbcf59f44 ({"environment_variables"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+#2026 05 12 10:37:34.896#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-3709#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:25.202382] Creating build for app with guid fb5586d2-a47a-439e-aeca-266bbcf59f44 (STDOUT, API)#
+#2026 05 12 10:37:34.896#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-3709#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:25.575045] Downloading nodejs_buildpack... (STDOUT, STG)#
+#2026 05 12 10:37:34.896#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-3709#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:25.619754] Downloaded nodejs_buildpack (STDOUT, STG)#
+#2026 05 12 10:37:34.896#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-3709#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:25.619860] Cell c839c7b1-088e-41af-b9b7-66256aacd457 creating container for instance 734b6dba-8ff5-4716-bf52-f084ecf1d59a (STDOUT, STG)#
+#2026 05 12 10:37:34.896#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-3709#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:26.616024] Security group rules were updated (STDOUT, STG)#
+#2026 05 12 10:37:34.896#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-3709#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:26.721058] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully created container for instance 734b6dba-8ff5-4716-bf52-f084ecf1d59a (STDOUT, STG)#
+#2026 05 12 10:37:34.896#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-3709#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:27.130947] Downloading app package... (STDOUT, STG)#
+#2026 05 12 10:37:34.896#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-3709#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:27.474674] Downloaded app package (2.3M) (STDOUT, STG)#
+#2026 05 12 10:37:34.896#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-3709#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:27.600026] -----> Nodejs Buildpack version 1.8.44 (STDOUT, STG)#
+#2026 05 12 10:37:34.896#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-3709#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:27.857513] -----> Bootstrapping python (STDOUT, STG)#
+#2026 05 12 10:37:34.896#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-3709#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:27.857544] -----> Installing python 3.11.14 (STDOUT, STG)#
+#2026 05 12 10:37:34.896#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-3709#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:27.857664] Copy [/tmp/buildpacks/978cee5ec9c58000/dependencies/b5e0345ae0ae1932e7d56fffaa49a487/python_3.11.14_linux_x64_cflinuxfs4_66f53248.tgz] (STDOUT, STG)#
+#2026 05 12 10:37:34.896#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-3709#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:33.063114] -----> Installing binaries (STDOUT, STG)#
+#2026 05 12 10:37:34.896#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-3709#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:33.063250] engines.node (package.json): >=18 (STDOUT, STG)#
+#2026 05 12 10:37:34.896#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-3709#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:33.063283] engines.npm (package.json): unspecified (use default) (STDOUT, STG)#
+#2026 05 12 10:37:34.896#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-3709#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:33.063292] [31;1m**WARNING**[0m Dangerous semver range (>) in engines.node. See: http://docs.cloudfoundry.org/buildpacks/node/node-tips.html (STDOUT, STG)#
+#2026 05 12 10:37:34.896#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-3709#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:33.063388] -----> Installing node 24.13.0 (STDOUT, STG)#
+#2026 05 12 10:37:34.896#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-3709#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:33.063734] Copy [/tmp/buildpacks/978cee5ec9c58000/dependencies/2f5692219fecc3eee6e6d507a6bfe7b9/node_24.13.0_linux_x64_cflinuxfs4_a816dee1.tgz] (STDOUT, STG)#
+#2026 05 12 10:37:45.236#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4010#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:35.853847] Using default npm version: 11.6.2 (STDOUT, STG)#
+#2026 05 12 10:37:45.236#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4010#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:35.853873] -----> Installing yarn 1.22.22 (STDOUT, STG)#
+#2026 05 12 10:37:45.236#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4010#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:35.854025] Copy [/tmp/buildpacks/978cee5ec9c58000/dependencies/e3a39aedd1236924d69cc2d0637a8ed2/yarn_1.22.22_linux_noarch_any-stack_4911d0a6.tgz] (STDOUT, STG)#
+#2026 05 12 10:37:45.236#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4010#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:36.291690] Installed yarn 1.22.22 (STDOUT, STG)#
+#2026 05 12 10:37:45.236#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4010#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:36.291726] -----> Creating runtime environment (STDOUT, STG)#
+#2026 05 12 10:37:45.236#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4010#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:36.293686] NODE_ENV=production (STDOUT, STG)#
+#2026 05 12 10:37:45.236#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4010#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:36.293722] NODE_HOME=/tmp/contents3843589190/deps/0/node (STDOUT, STG)#
+#2026 05 12 10:37:45.236#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4010#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:36.293726] NODE_MODULES_CACHE=true (STDOUT, STG)#
+#2026 05 12 10:37:45.236#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4010#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:36.293728] NODE_VERBOSE=false (STDOUT, STG)#
+#2026 05 12 10:37:45.236#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4010#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:36.293734] NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+#2026 05 12 10:37:45.236#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4010#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:36.293738] NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+#2026 05 12 10:37:45.236#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4010#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:36.293757] -----> Building dependencies (STDOUT, STG)#
+#2026 05 12 10:37:45.236#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4010#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:36.293759] Prebuild detected (node_modules already exists) (STDOUT, STG)#
+#2026 05 12 10:37:45.236#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4010#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:36.293773] Rebuilding any native modules (STDOUT, STG)#
+#2026 05 12 10:37:45.236#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4010#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:36.973706] rebuilt dependencies successfully (STDOUT, STG)#
+#2026 05 12 10:37:45.236#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4010#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:37.070872] Installing any new modules (package.json + package-lock.json) (STDOUT, STG)#
+#2026 05 12 10:37:45.236#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4010#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:37.597385] up to date in 428ms (STDOUT, STG)#
+#2026 05 12 10:37:45.236#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4010#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:37.597600] 4 packages are looking for funding (STDOUT, STG)#
+#2026 05 12 10:37:45.236#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4010#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:37.597690] run `npm fund` for details (STDOUT, STG)#
+#2026 05 12 10:37:45.236#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4010#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:38.428679] Contrast Security no credentials found. Will not write environment files. (STDOUT, STG)#
+#2026 05 12 10:37:55.112#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4014#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:47.968344] Exit status 0 (STDOUT, STG)#
+#2026 05 12 10:37:55.112#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4014#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:47.968419] Uploading droplet, build artifacts cache... (STDOUT, STG)#
+#2026 05 12 10:37:55.112#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4014#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:47.968497] Uploading droplet... (STDOUT, STG)#
+#2026 05 12 10:37:55.112#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4014#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:47.968927] Uploading build artifacts cache... (STDOUT, STG)#
+#2026 05 12 10:37:55.112#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4014#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:48.007422] Uploaded build artifacts cache (217B) (STDOUT, STG)#
+#2026 05 12 10:37:55.112#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4014#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:48.638857] Creating droplet for app with guid fb5586d2-a47a-439e-aeca-266bbcf59f44 (STDOUT, API)#
+#2026 05 12 10:37:55.112#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4014#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:51.706638] Uploaded droplet (58.4M) (STDOUT, STG)#
+#2026 05 12 10:37:55.112#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4014#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:51.730102] Uploading complete (STDOUT, STG)#
+#2026 05 12 10:37:55.112#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4014#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:52.327837] Cell c839c7b1-088e-41af-b9b7-66256aacd457 stopping instance 734b6dba-8ff5-4716-bf52-f084ecf1d59a (STDOUT, STG)#
+#2026 05 12 10:37:55.112#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4014#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:52.327876] Cell c839c7b1-088e-41af-b9b7-66256aacd457 destroying container for instance 734b6dba-8ff5-4716-bf52-f084ecf1d59a (STDOUT, STG)#
+#2026 05 12 10:37:55.112#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4014#
+[PollStageAppStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:52.385964] Staging complete for build 734b6dba-8ff5-4716-bf52-f084ecf1d59a (STDOUT, API)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:36:55.301267] Added process: "web" (STDOUT, API)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:36:55.309220] Created app with guid fb5586d2-a47a-439e-aeca-266bbcf59f44 (STDOUT, API)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:36:55.407825] Updating process: "web" (STDOUT, API)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:36:55.459575] Scaling process: "web" (STDOUT, API)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:15.077720] Uploading app package for app with guid fb5586d2-a47a-439e-aeca-266bbcf59f44 (STDOUT, API)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:15.302386] Updated app with guid fb5586d2-a47a-439e-aeca-266bbcf59f44 ({"environment_variables"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:25.202382] Creating build for app with guid fb5586d2-a47a-439e-aeca-266bbcf59f44 (STDOUT, API)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:25.575045] Downloading nodejs_buildpack... (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:25.619754] Downloaded nodejs_buildpack (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:25.619860] Cell c839c7b1-088e-41af-b9b7-66256aacd457 creating container for instance 734b6dba-8ff5-4716-bf52-f084ecf1d59a (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:26.616024] Security group rules were updated (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:26.721058] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully created container for instance 734b6dba-8ff5-4716-bf52-f084ecf1d59a (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:27.130947] Downloading app package... (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:27.474674] Downloaded app package (2.3M) (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:27.600026] -----> Nodejs Buildpack version 1.8.44 (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:27.857513] -----> Bootstrapping python (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:27.857544] -----> Installing python 3.11.14 (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:27.857664] Copy [/tmp/buildpacks/978cee5ec9c58000/dependencies/b5e0345ae0ae1932e7d56fffaa49a487/python_3.11.14_linux_x64_cflinuxfs4_66f53248.tgz] (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:33.063114] -----> Installing binaries (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:33.063250] engines.node (package.json): >=18 (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:33.063283] engines.npm (package.json): unspecified (use default) (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:33.063292] [31;1m**WARNING**[0m Dangerous semver range (>) in engines.node. See: http://docs.cloudfoundry.org/buildpacks/node/node-tips.html (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:33.063388] -----> Installing node 24.13.0 (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:33.063734] Copy [/tmp/buildpacks/978cee5ec9c58000/dependencies/2f5692219fecc3eee6e6d507a6bfe7b9/node_24.13.0_linux_x64_cflinuxfs4_a816dee1.tgz] (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:35.853847] Using default npm version: 11.6.2 (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:35.853873] -----> Installing yarn 1.22.22 (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:35.854025] Copy [/tmp/buildpacks/978cee5ec9c58000/dependencies/e3a39aedd1236924d69cc2d0637a8ed2/yarn_1.22.22_linux_noarch_any-stack_4911d0a6.tgz] (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:36.291690] Installed yarn 1.22.22 (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:36.291726] -----> Creating runtime environment (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:36.293686] NODE_ENV=production (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:36.293722] NODE_HOME=/tmp/contents3843589190/deps/0/node (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:36.293726] NODE_MODULES_CACHE=true (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:36.293728] NODE_VERBOSE=false (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:36.293734] NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:36.293738] NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:36.293757] -----> Building dependencies (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:36.293759] Prebuild detected (node_modules already exists) (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:36.293773] Rebuilding any native modules (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:36.973706] rebuilt dependencies successfully (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:37.070872] Installing any new modules (package.json + package-lock.json) (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:37.597385] up to date in 428ms (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:37.597600] 4 packages are looking for funding (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:37.597690] run `npm fund` for details (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:38.428679] Contrast Security no credentials found. Will not write environment files. (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:47.968344] Exit status 0 (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:47.968419] Uploading droplet, build artifacts cache... (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:47.968497] Uploading droplet... (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:47.968927] Uploading build artifacts cache... (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:48.007422] Uploaded build artifacts cache (217B) (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:48.638857] Creating droplet for app with guid fb5586d2-a47a-439e-aeca-266bbcf59f44 (STDOUT, API)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:51.706638] Uploaded droplet (58.4M) (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:51.730102] Uploading complete (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:52.327837] Cell c839c7b1-088e-41af-b9b7-66256aacd457 stopping instance 734b6dba-8ff5-4716-bf52-f084ecf1d59a (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:52.327876] Cell c839c7b1-088e-41af-b9b7-66256aacd457 destroying container for instance 734b6dba-8ff5-4716-bf52-f084ecf1d59a (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:52.385964] Staging complete for build 734b6dba-8ff5-4716-bf52-f084ecf1d59a (STDOUT, API)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:55.083680] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully destroyed container for instance 734b6dba-8ff5-4716-bf52-f084ecf1d59a (STDOUT, STG)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:55.185684] Updated app with guid fb5586d2-a47a-439e-aeca-266bbcf59f44 ({:droplet_guid=>"257851d2-f729-45f2-b0ea-a91fa4da6915"}) (STDOUT, API)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:55.764465] Cell c839c7b1-088e-41af-b9b7-66256aacd457 creating container for instance 30dec824-dbb7-44dc-b42c-320baa0a24d8 (STDOUT, CELL)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:56.708037] Security group rules were updated (STDOUT, CELL)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:37:56.809548] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully created container for instance 30dec824-dbb7-44dc-b42c-320baa0a24d8 (STDOUT, CELL)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:00.981980] Invoking pre-start scripts. (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:01.192182] Invoking start command. (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:01.698012] > start (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:01.698043] > node node_modules/@sap/hdi-deploy/deploy.js --use-hdb --parameter com.sap.hana.di.table/try_fast_table_migration=true (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:01.903891] VCAP_SERVICES: (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:01.904077] { (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:01.904102] "hana": [ (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:01.904113] { (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:01.904118] "name": "bookscapm-db", (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:01.904138] "label": "hana", (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:01.904140] "plan": "hdi-shared", (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:01.904143] "credentials": { (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:01.904158] "schema": "FD31A5226C3E4C28B90A90628CDAED9E", (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:01.904162] "database_id": "90352538-50fb-49a1-8ccf-9a9646005b95", (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:01.904167] "user": "FD31A5226C3E4C28B90A90628CDAED9E_9PJD1WFGIGDZ4SSC3Y9UDMWHZ_RT", (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:01.904172] "hdi_user": "FD31A5226C3E4C28B90A90628CDAED9E_9PJD1WFGIGDZ4SSC3Y9UDMWHZ_DT" (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:01.904175] }, (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:01.904188] "tags": [ (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:01.904191] "hana", (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:01.904198] "database", (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:01.904200] "relational" (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:01.904211] ] (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:01.904215] } (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:01.904219] ] (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:01.904221] } (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:02.358894] @sap/hdi-deploy, version 5.6.1 (mode default), server version 4.00.000.00.1777970319 (4.0.0.0), cloud version 2026.2.13, node version 24.13.0, HDI version 1016, container API version 1007 (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:02.364428] Deployment started at 2026-05-12 10:38:02 (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:02.364864] Using hdb@2.27.1 for connection (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:02.385443] No ignore file at /home/vcap/app/.hdiignore. (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:02.385784] Collecting files... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:02.389806] Collecting files... ok (0s 4ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:02.400306] 3 directories collected (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:02.400381] 8 files collected (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:02.400485] 0 reusable modules collected (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:02.400516] Target service: bookscapm-db (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:02.662483] Could not determine status of last build: Could not find any information about the previous deployment. (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:02.662949] Processing revoke files... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:02.663099] Processing revoke files... ok (0s 0ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:02.663386] Processing grants files... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:02.663548] Processing grants files... ok (0s 0ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:02.667564] Preprocessing files... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:02.667830] Preprocessing files... ok (0s 0ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:02.667964] Connecting to the container "FD31A5226C3E4C28B90A90628CDAED9E"... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:02.774781] Connecting to the container "FD31A5226C3E4C28B90A90628CDAED9E"... ok (0s 107ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:02.774860] Locking the container "FD31A5226C3E4C28B90A90628CDAED9E"... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:03.050622] Locking the container "FD31A5226C3E4C28B90A90628CDAED9E"... ok (0s 276ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:03.050671] Synchronizing files with the container "FD31A5226C3E4C28B90A90628CDAED9E"... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:03.321958] Deleting files... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:03.484719] Deleting files... ok (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:03.484759] Writing files... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:03.488519] Writing 11 items (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:03.924080] Writing files... ok (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:03.924113] Synchronizing files with the container "FD31A5226C3E4C28B90A90628CDAED9E"... ok (0s 873ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:03.928732] added files: [ (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:03.928758] "src/gen/.hdiconfig", (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:03.928778] "src/gen/.hdinamespace", (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:03.928781] "src/gen/LibrarySrv.BooksSet.hdbview", (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:03.928785] "src/gen/cds.outbox.Messages.hdbtable", (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:03.928788] "src/gen/data/db-books.Books.csv", (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:03.928790] "src/gen/data/db-books.Books.hdbtabledata", (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:03.928793] "src/gen/db.books.Books.hdbtable", (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:03.928801] "src/gen/db.books.Library.hdbtable" (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:03.928806] ] (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:03.928809] modified files: [] (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:03.928824] deleted files: [] (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:03.929093] 8 modified or added files are scheduled for deploy based on delta detection (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:03.929419] 0 deleted files are scheduled for undeploy based on delta detection (filtered by undeploy allowlist) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:03.929715] 0 files are scheduled for deploy based on explicit specification (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:03.929829] 0 files are scheduled for undeploy based on explicit specification (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:03.930124] Deploying to the container "FD31A5226C3E4C28B90A90628CDAED9E"... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:04.571528] Polling messages for request id: 14 (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:04.646456] Starting make in the container "FD31A5226C3E4C28B90A90628CDAED9E" with 8 files to deploy, 0 files to undeploy... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:04.646494] Disabling table replication for the container schema "FD31A5226C3E4C28B90A90628CDAED9E"... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:04.646508] Disabling table replication for the container schema "FD31A5226C3E4C28B90A90628CDAED9E"... ok (0s 17ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:04.646512] Migrating libraries... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:04.646686] Migrating libraries... ok (0s 15ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:04.646861] Making... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:04.646874] Preparing... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:05.199#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4029#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:04.647029] Preparing the make transaction... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.665522] Preparing the make transaction... ok (0s 579ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.665698] Deploying the configuration file "src/gen/.hdiconfig"... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.665874] Deploying the configuration file "src/gen/.hdiconfig"... ok (0s 46ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.665909] Deploying the namespace file "src/gen/.hdinamespace"... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.666123] Deploying the namespace file "src/gen/.hdinamespace"... ok (0s 27ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.666144] Adding "src/gen/LibrarySrv.BooksSet.hdbview" for deploy... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.666147] Adding "src/gen/LibrarySrv.BooksSet.hdbview" for deploy... ok (0s 42ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.666262] Adding "src/gen/cds.outbox.Messages.hdbtable" for deploy... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.666419] Adding "src/gen/cds.outbox.Messages.hdbtable" for deploy... ok (0s 0ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.666528] Adding "src/gen/data/db-books.Books.csv" for deploy... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.666658] Adding "src/gen/data/db-books.Books.csv" for deploy... ok (0s 48ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.666770] Adding "src/gen/data/db-books.Books.hdbtabledata" for deploy... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.666912] Adding "src/gen/data/db-books.Books.hdbtabledata" for deploy... ok (0s 0ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.667016] Adding "src/gen/db.books.Books.hdbtable" for deploy... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.667143] Adding "src/gen/db.books.Books.hdbtable" for deploy... ok (0s 0ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.667303] Adding "src/gen/db.books.Library.hdbtable" for deploy... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.667428] Adding "src/gen/db.books.Library.hdbtable" for deploy... ok (0s 0ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.667538] Preparing... ok (0s 816ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.667658] Calculating dependencies... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.667763] Expanding... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.667882] Expanding "src/gen/LibrarySrv.BooksSet.hdbview"... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.668005] Expanding "src/gen/cds.outbox.Messages.hdbtable"... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.668161] Expanding "src/gen/data/db-books.Books.hdbtabledata"... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.668268] Expanding "src/gen/db.books.Books.hdbtable"... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.668393] Expanding "src/gen/data/db-books.Books.hdbtabledata"... ok (0s 10ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.668496] Expanding "src/gen/db.books.Library.hdbtable"... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.668617] Expanding "src/gen/db.books.Books.hdbtable"... ok (0s 21ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.668718] Expanding "src/gen/cds.outbox.Messages.hdbtable"... ok (0s 24ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.668838] Expanding "src/gen/db.books.Library.hdbtable"... ok (0s 12ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.668932] Expanding "src/gen/LibrarySrv.BooksSet.hdbview"... ok (0s 24ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.669052] Expanding... ok (0s 72ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.669144] Precompiling... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.669279] Precompiling "src/gen/LibrarySrv.BooksSet.hdbview"... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.669412] Precompiling "src/gen/cds.outbox.Messages.hdbtable"... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.669448] Precompiling "src/gen/data/db-books.Books.csv"... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.669601] Precompiling "src/gen/data/db-books.Books.hdbtabledata"... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.669703] Precompiling "src/gen/data/db-books.Books.hdbtabledata"... ok (0s 0ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.669724] Precompiling "src/gen/data/db-books.Books.hdbtabledata$0.expand"... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.669734] Expanded from "src/gen/data/db-books.Books.hdbtabledata" (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.669737] Precompiling "src/gen/data/db-books.Books.csv"... ok (0s 3ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.669740] Precompiling "src/gen/db.books.Books.hdbtable"... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.669756] Precompiling "src/gen/data/db-books.Books.hdbtabledata$0.expand"... ok (0s 4ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.669817] Precompiling "src/gen/db.books.Library.hdbtable"... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.669835] Precompiling "src/gen/LibrarySrv.BooksSet.hdbview"... ok (0s 10ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.669856] Precompiling "src/gen/cds.outbox.Messages.hdbtable"... ok (0s 9ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.669968] Precompiling "src/gen/db.books.Books.hdbtable"... ok (0s 8ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.670046] Precompiling "src/gen/db.books.Library.hdbtable"... ok (0s 7ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.670132] Precompiling... ok (0s 35ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.670179] Merging... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.670232] Merging... ok (0s 22ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.670279] Calculating dependencies... ok (0s 129ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.670331] Processing work list... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.670418] Deploying "src/gen/cds.outbox.Messages.hdbtable"... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.670446] Deploying "src/gen/data/db-books.Books.csv"... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.670575] Deploying "src/gen/data/db-books.Books.hdbtabledata"... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.670602] Deploying "src/gen/data/db-books.Books.hdbtabledata"... ok (0s 0ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.670659] Deploying "src/gen/db.books.Books.hdbtable"... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.670714] Deploying "src/gen/data/db-books.Books.csv"... ok (0s 99ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.670790] Deploying "src/gen/db.books.Library.hdbtable"... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.670874] Deploying "src/gen/cds.outbox.Messages.hdbtable"... ok (0s 215ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.670955] Deploying "src/gen/db.books.Books.hdbtable"... ok (0s 217ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.671036] Deploying "src/gen/data/db-books.Books.hdbtabledata$0.expand"... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.671118] Expanded from "src/gen/data/db-books.Books.hdbtabledata" (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:05.671200] Deploying "src/gen/db.books.Library.hdbtable"... ok (0s 120ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:06.324119] Inserted 5 records of the data source file "db-books.Books.csv" into the target table "DB_BOOKS_BOOKS" (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:06.324213] Deploying "src/gen/data/db-books.Books.hdbtabledata$0.expand"... ok (0s 541ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:06.324314] Deploying "src/gen/LibrarySrv.BooksSet.hdbview"... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:06.324367] Deploying "src/gen/LibrarySrv.BooksSet.hdbview"... ok (0s 40ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:06.324477] Processing work list... ok (0s 830ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:06.324534] Finalizing... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:06.324628] Finalizing... ok (0s 96ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:06.324766] Make succeeded (0 warnings): 8 files deployed (effective 9), 0 files undeployed (effective 0), 0 dependent files redeployed (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:06.324785] Making... ok (2s 26ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:06.324885] Enabling table replication for the container schema "FD31A5226C3E4C28B90A90628CDAED9E"... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:06.324941] Enabling table replication for the container schema "FD31A5226C3E4C28B90A90628CDAED9E"... ok (0s 23ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:06.325057] Starting make in the container "FD31A5226C3E4C28B90A90628CDAED9E" with 8 files to deploy, 0 files to undeploy... ok (2s 108ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:06.325223] Deploying to the container "FD31A5226C3E4C28B90A90628CDAED9E"... ok (2s 395ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:06.325833] No default-access-role handling needed; global role "FD31A5226C3E4C28B90A90628CDAED9E::access_role" will not be adapted (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:06.326033] Unlocking the container "FD31A5226C3E4C28B90A90628CDAED9E"... (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:06.327174] Unlocking the container "FD31A5226C3E4C28B90A90628CDAED9E"... ok (0s 1ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:06.327606] Deployment to container FD31A5226C3E4C28B90A90628CDAED9E done [Deployment ID: none]. (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:06.328688] Deployment ended at 2026-05-12 10:38:06 (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:06.329305] (4s 591ms) (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:06.378871] npm notice (STDERR, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:06.378911] npm notice New minor version of npm available! 11.6.2 -> 11.14.1 (STDERR, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:06.378916] npm notice Changelog: https://github.com/npm/cli/releases/tag/v11.14.1 (STDERR, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:06.378918] npm notice To update run: npm install -g npm@11.14.1 (STDERR, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:06.378920] npm notice (STDERR, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:06.510478] Exit status 0 (STDOUT, APP/TASK/deploy)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:07.521054] Cell c839c7b1-088e-41af-b9b7-66256aacd457 stopping instance 30dec824-dbb7-44dc-b42c-320baa0a24d8 (STDOUT, CELL)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:07.521116] Cell c839c7b1-088e-41af-b9b7-66256aacd457 destroying container for instance 30dec824-dbb7-44dc-b42c-320baa0a24d8 (STDOUT, CELL)#
+#2026 05 12 10:38:15.178#Z#DEBUG#71ee3e5a-4dee-11f1-939e-eeee0a9e2e6e.bookscapm-db-deployer#flowable-async-job-executor-thread-4036#
+[PollExecuteTaskStatusExecution] fb5586d2-a47a-439e-aeca-266bbcf59f44 [2026-05-12T10:38:09.949301] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully destroyed container for instance 30dec824-dbb7-44dc-b42c-320baa0a24d8 (STDOUT, CELL)#
